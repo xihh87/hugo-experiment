@@ -2,6 +2,7 @@
 title: "Show case for file links"
 date: 2022-04-06T08:38:10-05:00
 draft: false
+file_link: file:///home/user/test3.txt
 ---
 
 A website with [a link to a local file](file:///home/user/test.txt)

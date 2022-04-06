@@ -1,3 +1,4 @@
 {{ define "main" }}
 {{ .Content }}
+<a href="{{ .Params.file_link | safeHTML }}">manual link</a>
 {{ end }}
